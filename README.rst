@@ -15,9 +15,11 @@ Colorama
 ========
 
 Vomm-- blorrfjsklghekrf... it.
+===============================
 
 Makes ANSI escape character sequences (for producing colored terminal text and
 cursor positioning) work under MS Windows.
+===============================
 
 .. |donate| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif
   :target: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2MZ9D2GMLYCUJ&item_name=Colorama&currency_code=USD
